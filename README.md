@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @raqib-siddiqi<br>🌱 I’m currently learning Programming<br>💞️ I’m looking to collaborate on Php laravel projects.<br>📫 How to reach me raqib.asiddiqi@gmail.com<br>⚡ Fun fact: I am crazy to find solutions of erors and problems
+👋 Hi, I’m @raqib Shaikh<br>🌱 I’m currently learning Programming<br>💞️ I’m looking to collaborate on Php laravel projects.<br>📫 How to reach me raqib.asiddiqi@gmail.com<br>⚡ Fun fact: I am crazy to find solutions of erors and problems
 
 
 ## 🌐 Socials:
